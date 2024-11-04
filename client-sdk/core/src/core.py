@@ -1,7 +1,7 @@
 def handleFunctionError(error_code: int, error_message: str) -> None:
 
     print(f"Error {error_code}: {error_message}")
-    
+    />>DIDIAMXIONSIU
     error_actions = {
         #list of common errors encountered
         #For now we create a dictionary and then later depending on the functions we can implement error logging with docker, call a specfic function etc. 
